@@ -1,0 +1,2 @@
+id;nombre;apellido;correo;contrasenia;activo;roles
+"1","Sergio","Mendez","mendez@gmail.com","1234567","true","Administrador,Registrador de votantes"
